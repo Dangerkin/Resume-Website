@@ -1,0 +1,16 @@
+title: Who-I-am-in-Website-Format
+author: William Lydon
+Personal email: dangerkin1@outlook.com
+theme: minima
+description: > # this means to ignore newlines until "baseurl:"
+  
+  At the time of writing this, I am a full time student in High School creating
+  a website that could possibly used in the future. I will be including
+  some of my hobbies and achievements as well as maybe some more about me
+  in various blog posts.
+# social links
+reddit_username: Dangerkin # DO NOT include the @ character, or else the build will fail!
+github_username:  Dangerkin # DO NOT include the @ character, or else the build will fail!
+discord_username: Dangerkin#9191
+
+show_excerpts: true # set to false to remove excerpts on the homepage
