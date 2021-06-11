@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
   some of my hobbies and achievements as well as maybe some more about me
   in various blog posts.
 # social links
-Reddit-Username: Dangerkin # DO NOT include the @ character, or else the build will fail!
+https://www.reddit.com/user/: Dangerkin # DO NOT include the @ character, or else the build will fail!
 github_username:  Dangerkin # DO NOT include the @ character, or else the build will fail!
-Discord-username: Dangerkin#9191
+discord_username: Dangerkin#9191
 
 show_excerpts: true # set to false to remove excerpts on the homepage
