@@ -13,4 +13,5 @@ reddit: Dangerkin # DO NOT include the @ character, or else the build will fail!
 github_username:  Dangerkin # DO NOT include the @ character, or else the build will fail!
 discord: Dangerkin#9191
 twitter_username: Blah
+facebook_username: Test 1
 show_excerpts: true # set to false to remove excerpts on the homepage
