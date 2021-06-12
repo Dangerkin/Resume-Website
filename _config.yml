@@ -10,8 +10,8 @@ description: > # this means to ignore newlines until "baseurl:"
   in various blog posts. Reddit link https://www.reddit.com/user/Dangerkin 
   Discord Server Link https://discord.gg/aGY6rdef7B
   
-  # soical links
-  github_username: Dangerkin
+# social links
+github_username:  Dangerkin # DO NOT include the @ character, or else the build will fail!
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
