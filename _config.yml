@@ -8,7 +8,10 @@ description: > # this means to ignore newlines until "baseurl:"
   a website that could possibly used in the future. I will be including
   some of my hobbies and achievements as well as maybe some more about me
   in various blog posts. Reddit link https://www.reddit.com/user/Dangerkin 
-  Github Username Dangerkin Discord Server Link https://discord.gg/aGY6rdef7B
+  Discord Server Link https://discord.gg/aGY6rdef7B
+  
+  # soical links
+  github_username: Dangerkin
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
