@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   a website that could possibly used in the future. I will be including
   some of my hobbies and achievements as well as maybe some more about me
   in various blog posts.
-# social links
+
 Reddit link https://www.reddit.com/user/Dangerkin # DO NOT include the @ character, or else the build will fail!
 Github Username Dangerkin # DO NOT include the @ character, or else the build will fail!
 Discord Server Link https://discord.gg/aGY6rdef7B
